@@ -106,3 +106,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# comppress files
+kubectl
+minikube-linux-amd64
+openshift-client-linux.tar.gz
